@@ -11,8 +11,7 @@
 
 - 🔬 Data Scientist with 2+ years of experience building ML models that drive impact  
 - ✈️ Built predictive pricing, baggage optimization & aircraft allocation systems in the airline domain  
-- 🤖 Passionate about deploying AI — currently exploring Retrieval-Augmented Generation (RAG) systems  
-- 🏏 Love playing cricket (🏆 Jet2 Cricket League winner, Pune), swimming, and organizing fun team events  
+- 🤖 Passionate about deploying AI —  Exploring Retrieval-Augmented Generation (RAG) systems and Agentic AI 
 - 🧩 I enjoy solving real-world problems with data, and making insights actionable!
 
 ---
@@ -53,7 +52,7 @@
 ### 📬 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/vaibhavshah" target="_blank">
+  <a href="linkedin.com/in/vaibhav-shah-704104212" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vaibhav@example.com">
